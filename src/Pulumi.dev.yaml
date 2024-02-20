@@ -1,2 +1,5 @@
 config:
   aws:region: us-west-2
+  serverless-application:dbPassword:
+    secure: AAABAEWYNEyESfp49qDIK6m13TegdbsBBuASIy5b9enetYXVt5GCsz8hKMolEQ==
+  serverless-application:dbUser: serverlessapp
